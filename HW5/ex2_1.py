@@ -14,4 +14,5 @@ class A(B, C):
 
 
 a = A()
+# Вывод: hello class A
 a.check()
